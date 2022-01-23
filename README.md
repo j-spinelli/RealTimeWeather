@@ -8,7 +8,7 @@ A basic interface that fetches the real time weather of any city from an API an 
 - [Requests] (https://docs.python-requests.org/en/latest/)
 - [OpenWeatherMap] (https://openweathermap.org/api)
 
-## Quick Setup
+## Quick Setup (if not using the app)
 
 1. Go to https://openweathermap.org/api and create an account.
 2. Grab your API key.
